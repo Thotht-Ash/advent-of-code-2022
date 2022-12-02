@@ -1,2 +1,4 @@
 *.lock
-targer/*
+targer/
+debug/
+**/*.rs.bk
